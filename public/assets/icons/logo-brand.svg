@@ -1,0 +1,13 @@
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Icon -->
+  <g transform="translate(18,32)">
+    <!-- Back box (coral, faded) -->
+    <rect x="0" y="8" rx="14" ry="14" width="64" height="48" fill="#ff7a7a" opacity="0.25"></rect>
+
+    <!-- Middle box (coral) -->
+    <rect x="12" y="0" rx="14" ry="14" width="64" height="48" fill="#ff7a7a" opacity="0.5"></rect>
+
+    <!-- Front box (solid coral) -->
+    <rect x="24" y="-12" rx="14" ry="14" width="64" height="48" fill="#ff7a7a"></rect>
+  </g>
+</svg>

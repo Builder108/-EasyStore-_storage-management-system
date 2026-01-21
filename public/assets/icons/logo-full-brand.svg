@@ -1,0 +1,18 @@
+<svg width="520" height="160" viewBox="0 0 520 160" xmlns="http://www.w3.org/2000/svg">
+  <!-- Icon container -->
+  <g transform="translate(40,40)">
+    <!-- Back box -->
+    <rect x="0" y="10" rx="14" ry="14" width="70" height="52" fill="#ff6f6f" opacity="0.25"></rect>
+
+    <!-- Middle box -->
+    <rect x="12" y="0" rx="14" ry="14" width="70" height="52" fill="#ff6f6f" opacity="0.5"></rect>
+
+    <!-- Front box -->
+    <rect x="24" y="-12" rx="14" ry="14" width="70" height="52" fill="#ff6f6f"></rect>
+  </g>
+
+  <!-- Logo Text (BIGGER) -->
+  <text x="170" y="105" font-size="56" font-family="Inter, Poppins, Arial, sans-serif" font-weight="700" letter-spacing="0.6" fill="#ff6f6f">
+    EasyStore
+  </text>
+</svg>
